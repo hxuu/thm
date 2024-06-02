@@ -56,7 +56,7 @@ To get the most out of these write-ups, you should have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/4nskarts/tryhackme-writeups.git
+git clone https://github.com/4nskarts/thm.git
 ```
 
 2. Navigate to the directory of the room you are interested in:
