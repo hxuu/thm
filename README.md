@@ -62,7 +62,7 @@ git clone https://github.com/4nskarts/thm.git
 2. Navigate to the directory of the room you are interested in:
 
 ```bash
-cd tryhackme-writeups/Room1
+cd thm/Room1 ## for example only
 ```
 
 3. Open the `README.md` file to get an overview of the room and then proceed with the task write-ups as needed.
